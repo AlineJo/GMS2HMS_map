@@ -1,0 +1,2 @@
+rootProject.name = "GMS2HMS_map"
+include ':app'
